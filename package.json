@@ -1,0 +1,22 @@
+{
+  "name": "site-teste",
+  "version": "1.0.0",
+  "description": "Aplicacao de conhecimentos basicos",
+  "main": "index.js",
+  "scripts": {
+    "test": "start dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geizivan/aulas-basico.git"
+  },
+  "keywords": [
+    "gegesawei45"
+  ],
+  "author": "Geizivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geizivan/aulas-basico/issues"
+  },
+  "homepage": "https://github.com/geizivan/aulas-basico#readme"
+}
